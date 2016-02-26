@@ -39,7 +39,7 @@ Para instalar Emmet en Atom, debemos ir a "Packages" -> "Settings View" -> "Inst
 
 ### Despliegue en github.io
 
-* [http://ull-esit-gradoii-pl.github.io/conversor-de-temperatura-simple-alexisnatalie/?](http://ull-esit-gradoii-pl.github.io/conversor-de-temperatura-simple-alexisnatalie/?)
+* [http://ull-esit-gradoii-pl.github.io/conversor-de-temperatura-simple-alexisnatalie/](http://ull-esit-gradoii-pl.github.io/conversor-de-temperatura-simple-alexisnatalie/)
 
 ### Repositorio en el que trabajamos
 
