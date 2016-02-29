@@ -44,3 +44,12 @@ Para instalar Emmet en Atom, debemos ir a "Packages" -> "Settings View" -> "Inst
 ### Repositorio en el que trabajamos
 
 * [https://github.com/alu0100816761/conversor-de-temperatura-simple-alexisnatalie](https://github.com/alu0100816761/conversor-de-temperatura-simple-alexisnatalie)
+
+### Página de la asignatura en el campus virtual
+
+* [https://campusvirtual.ull.es/1516/course/view.php?id=178](https://campusvirtual.ull.es/1516/course/view.php?id=178)
+
+### Repositorios personales
+
+* [http://alu0100818369.github.io/](http://alu0100818369.github.io/)
+* [http://alu0100816761.github.io/](http://alu0100816761.github.io/)
